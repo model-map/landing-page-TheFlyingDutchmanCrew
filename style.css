@@ -72,7 +72,13 @@ ul{
     align-self: flex-end;
 }
 
-
+.sign-up-box{
+    background-color: deepskyblue;
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 0;
+    padding:25px;
+}
 
 
 
