@@ -59,6 +59,20 @@ ul{
     width:200px;
 }
 
+.quote{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-quote{
+    align-self: center;
+}
+
+.quote-by{
+    align-self: flex-end;
+}
+
+
 
 
 
