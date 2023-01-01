@@ -2,7 +2,6 @@ body{
     display: flex;
     flex-direction: column;
     margin:50px;
-    gap:20px;
 }
 
 ul{
@@ -76,7 +75,7 @@ ul{
     background-color: deepskyblue;
     display: flex;
     justify-content: space-between;
-    flex-grow: 0;
+    margin:50px;
     padding:25px;
 }
 
@@ -87,4 +86,47 @@ ul{
 }
 
 
+/* Colours */
 
+.page-header,
+.intro,
+.footer{
+    background-color: #1f2937;
+}
+
+.intro-header{
+    font-size: 48px;
+    font-weight: bolder;
+    color:#f9faf8
+}
+
+.intro-desc{
+    font-size:18px;
+    color:#e5e7eb
+}
+
+button{
+    background-color: #3882f6;
+}
+
+.left-links{
+    font-size:24px;
+    color:#f9faf8;
+}
+
+.info-header{
+    font-size:36px;
+    font-weight:bolder;
+    color:#1f2937;
+}
+
+.quote{
+    background-color: #e5e7eb;
+}
+
+.quote-quote{
+    font-size:36px;
+    font-style: italic;
+    font-weight:100;
+    color:#1f2937;
+}
