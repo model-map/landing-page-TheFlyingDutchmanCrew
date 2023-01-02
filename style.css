@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
 
 body{
     display: flex;
@@ -11,6 +11,11 @@ ul{
     margin:0;
     padding:0;
     list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:#e5e7eb;
 }
 
 .header-logo-image{
@@ -157,6 +162,10 @@ button{
     font-size:36px;
     font-weight:bolder;
     color:#1f2937;
+}
+
+.info-thumbnail>p{
+    font-weight: 300;
 }
 
 .quote{
