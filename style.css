@@ -40,8 +40,9 @@ body>*{
 }
 
 .right-links{
+    font-size:12px;
     display: flex;
-    gap:20px;
+    gap:3em;
 }
 
 .intro{
@@ -55,10 +56,7 @@ body>*{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-}
-
-.intro-desc{
-    padding-right:100px;
+    gap:1em;
 }
 
 .info{
@@ -130,13 +128,24 @@ body>*{
     color:#f9faf8;
 }
 
+.sign-up1,
+.sign-up2{
+    flex-basis:auto;
+    padding:1em 2em;
+    color:#2b2b2b;
+    font-size:20px;
+}
+
+
 .intro-desc{
+    padding-right:100px;
     font-size:18px;
     color:#e5e7eb;
 }
 
 button{
-    background-color: #3882f6;
+    background-color: #5EC974;
+    border-radius: 10em;
 }
 
 .left-links{
