@@ -1,13 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,100&display=swap');
+
 body{
     display: flex;
     flex-direction: column;
     margin:0;
+    font-family: 'Roboto', sans-serif;
 }
 
 ul{
     margin:0;
     padding:0;
     list-style: none;
+}
+
+.header-logo-image{
+    width:100px;
+    margin-top:-10px;
 }
 
 .intro-image{
@@ -47,6 +55,10 @@ body>*{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+}
+
+.intro-desc{
+    padding-right:100px;
 }
 
 .info{
@@ -105,18 +117,22 @@ body>*{
 .page-header,
 .intro,
 .footer{
-    background-color: #1f2937;
+    background-color: #2A280E;
+}
+
+.page-header{
+    color:#e5e7eb;
 }
 
 .intro-header{
     font-size: 48px;
     font-weight: bolder;
-    color:#f9faf8
+    color:#f9faf8;
 }
 
 .intro-desc{
     font-size:18px;
-    color:#e5e7eb
+    color:#e5e7eb;
 }
 
 button{
