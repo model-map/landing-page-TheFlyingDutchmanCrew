@@ -2,7 +2,7 @@
 This is the Flying Dutchman's landing page made using HTML and CSS.
 
 Next Step:
-    Clean CSS code
+    - Clean CSS code
 
 Picture credits:
 
