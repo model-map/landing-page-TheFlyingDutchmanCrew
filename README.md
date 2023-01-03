@@ -3,7 +3,6 @@ This is the Flying Dutchman's landing page made using HTML and CSS.
 
 Next Steps:
     
-    - Clean CSS code
     - Add logo to title bar
     - change page title
 
