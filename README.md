@@ -2,9 +2,7 @@
 This is the Flying Dutchman's landing page made using HTML and CSS.
 
 Next Steps:
-    
-    - Add logo to title bar
-    - change page title
+    - Design other sections of the page
 
 Picture credits:
 
