@@ -1,6 +1,8 @@
 # TheFlyingDutchman-landing-page
 This is the Flying Dutchman's landing page made using HTML and CSS.
 
+Github preview: https://htmlpreview.github.io/?https://github.com/model-map/landing-page-TheFlyingDutchmanCrew/blob/main/index.html
+
 Next Steps:
 
     - Make the website responsive
