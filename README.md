@@ -9,6 +9,10 @@ Next Steps:
     - apply better color theory
     - cleaner paddings/margins
 
+Features:
+    - added smooth scrolling to sections
+    - better UI
+
 Picture credits:
 
     - Logo: https://static.wikia.nocookie.net/spongebob/images/e/ef/Flying_Dutchman_stock_art.png/revision/latest?cb=20220807045601
